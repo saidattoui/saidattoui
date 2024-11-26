@@ -68,9 +68,6 @@
 
 ---
 
-
----
-
 <p align="center">
   💻 Built with passion, driven by innovation.  
 </p>
